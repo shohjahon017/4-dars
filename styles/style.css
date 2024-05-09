@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+.header {
+}
+.top {
+  width: 1440px;
+  height: 44px;
+  background: rgba(69, 79, 91, 1);
+}
+.skidka {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.12em;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  padding: 9px 452px;
+}
+.link1 {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+.linkdiv {
+  margin-left: 101px;
+}
+ul {
+  list-style: none;
+}
+a {
+  display: flex;
+  text-decoration: none;
+}
+.head {
+  display: flex;
+  align-items: center;
+  width: 1440px;
+  height: 126px;
+}
+.gs {
+  margin-left: 100px;
+}
+.phoneicon {
+  margin-left: 283px;
+}
+.number {
+  margin-right: 30px;
+}
