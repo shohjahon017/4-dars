@@ -22,13 +22,27 @@
   letter-spacing: 0.12em;
   text-align: left;
   color: rgba(255, 255, 255, 1);
-  padding: 9px 452px;
+  padding: 9px 400px;
+}
+.zvonok {
+  margin-left: 1080px;
+  margin-top: -27px;
+  text-decoration: underline;
+  font-family: "SF Pro Display";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0.12em;
+  color: rgba(255, 255, 255, 1);
 }
 .link1 {
   display: flex;
   gap: 32px;
   align-items: center;
 }
+.line {
+}
+
 .linkdiv {
   margin-left: 101px;
 }
@@ -44,6 +58,7 @@ a {
   align-items: center;
   width: 1440px;
   height: 126px;
+  border: 1px solid rgba(196, 205, 213, 1);
 }
 .gs {
   margin-left: 100px;
@@ -53,4 +68,9 @@ a {
 }
 .number {
   margin-right: 30px;
+}
+.icon1 {
+  display: flex;
+  gap: 24px;
+  cursor: pointer;
 }
