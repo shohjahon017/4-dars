@@ -20,6 +20,7 @@
   line-height: 26px;
   letter-spacing: 0.12em;
   text-align: left;
+  background-color: rgba(69, 79, 91, 1);
   color: rgba(255, 255, 255, 1);
   padding: 9px 400px;
 }
@@ -39,7 +40,10 @@
   gap: 32px;
   align-items: center;
 }
-
+.header {
+  position: fixed;
+  background-color: white;
+}
 .linkdiv {
   margin-left: 101px;
 }
@@ -71,6 +75,9 @@ a {
   display: flex;
   gap: 24px;
   cursor: pointer;
+}
+.h4 {
+  padding-top: 166px;
 }
 div a {
   color: rgba(22, 28, 36, 1);
@@ -202,18 +209,23 @@ div a {
 }
 .narxi {
   display: flex;
+  align-items: center;
+  text-align: center;
   gap: 8px;
   margin-top: 25px;
+  cursor: pointer;
 }
 .narx-79 {
   width: 116px;
   height: 44px;
   border: 1px solid rgba(66, 149, 228, 1);
+  padding: 10px 26px;
 }
 .narx-24 {
   width: 116px;
   height: 44px;
   border: 1px solid rgba(234, 234, 234, 1);
+  padding: 10px 26px;
 }
 .chiziq1 {
   margin-top: 16px;
@@ -246,4 +258,117 @@ div a {
   display: flex;
   gap: 170px;
   margin-top: 16px;
+}
+.main {
+  display: flex;
+}
+.top1 {
+  margin: 32px -70px;
+}
+.reytings {
+  display: flex;
+  gap: 8px;
+  margin-top: -10px;
+  cursor: pointer;
+}
+.strelka {
+  cursor: pointer;
+}
+.otziv {
+  font-family: " SF Pro Text";
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+}
+.variant {
+  max-width: 246px;
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+  margin-top: 6px;
+}
+.reting {
+  margin-left: -50px;
+}
+.p7 {
+  font-family: "SF Pro Text";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23.87px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.p8 {
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 21.48px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+  text-decoration: line-through;
+}
+.p33 {
+  font-family: "SF Pro Text";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23.87px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.p39 {
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 21.48px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+  text-decoration: line-through;
+}
+.narx7 {
+  display: flex;
+  gap: 12px;
+  margin-top: 10px;
+}
+.mainfirst {
+  display: flex;
+}
+.second {
+  margin-left: 120px;
+}
+.third {
+  margin-left: 120px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 607px;
+  margin-top: 30px;
+}
+.btn1 {
+  width: 40px;
+  height: 40px;
+  padding: 1px;
+  border: none;
+  border-radius: 2px;
+  background-color: rgba(66, 149, 228, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: SF Pro Text;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+}
+.btn2 {
+  width: 40px;
+  height: 40px;
+  padding: 1px;
+  border: none;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 1);
 }
