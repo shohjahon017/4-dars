@@ -8,8 +8,7 @@
   width: 100%;
   margin: 0 auto;
 }
-.header {
-}
+
 .top {
   width: 1440px;
   height: 44px;
@@ -40,8 +39,6 @@
   gap: 32px;
   align-items: center;
 }
-.line {
-}
 
 .linkdiv {
   margin-left: 101px;
@@ -68,9 +65,185 @@ a {
 }
 .number {
   margin-right: 30px;
+  color: rgba(69, 79, 91, 1);
 }
 .icon1 {
   display: flex;
   gap: 24px;
   cursor: pointer;
+}
+div a {
+  color: rgba(22, 28, 36, 1);
+}
+.glavniy {
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.catalog {
+  color: rgb(180, 190, 203);
+  margin-top: 20px;
+}
+
+.glca {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.nakleyka {
+  margin-left: 100px;
+}
+.nak {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-top: 40px;
+}
+.soni {
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+.boxs {
+  display: flex;
+}
+.box1 {
+  display: flex;
+  width: 288px;
+  align-items: center;
+  height: 40px;
+  top: 286px;
+  left: 100px;
+  padding: 7px 72px;
+  gap: 10px;
+  border: 1px solid rgba(173, 215, 255, 1);
+  margin-top: 32px;
+  margin-left: 100px;
+}
+.sbrosit {
+  font-family: "HelveticaNeueCyr";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+}
+.elekt {
+  width: 224px;
+  display: flex;
+  margin-top: 40px;
+  margin-left: 31px;
+  align-items: center;
+}
+.elektr {
+  font-family: "SF Pro Text";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 8px;
+}
+.x {
+  width: 14px;
+  height: 14px;
+}
+.pop {
+  display: flex;
+  align-items: center;
+  margin-left: 508px;
+  margin-top: 32px;
+  width: 194px;
+  height: 40px;
+  top: 286px;
+  left: 1151px;
+  padding: 7px 16px;
+  gap: 16px;
+  border: 1px solid rgba(196, 205, 213, 1);
+}
+/* main */
+
+.mainleft {
+  width: 288px;
+  height: 460px;
+  top: 358px;
+  left: 100px;
+  padding: 24px;
+  gap: 10px;
+  border-radius: 2px;
+  border: 1px solid rgba(196, 205, 213, 1);
+  margin: 32px 100px;
+}
+.filtr {
+  font-family: "SF Pro Text";
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.narxlar {
+  display: flex;
+  gap: 180px;
+  align-items: center;
+  margin-top: 24px;
+}
+.narx {
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.narxi {
+  display: flex;
+  gap: 8px;
+  margin-top: 25px;
+}
+.narx-79 {
+  width: 116px;
+  height: 44px;
+  border: 1px solid rgba(66, 149, 228, 1);
+}
+.narx-24 {
+  width: 116px;
+  height: 44px;
+  border: 1px solid rgba(234, 234, 234, 1);
+}
+.chiziq1 {
+  margin-top: 16px;
+  width: 240px;
+  border: 1px solid rgba(237, 237, 237, 1);
+}
+.osob {
+  display: flex;
+  gap: 135px;
+  margin-top: 16px;
+}
+.osoben {
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  text-align: left;
+}
+.svet {
+  display: flex;
+  gap: 193px;
+  margin-top: 16px;
+}
+.material {
+  display: flex;
+  gap: 160px;
+  margin-top: 16px;
+}
+.razmer {
+  display: flex;
+  gap: 170px;
+  margin-top: 16px;
 }
