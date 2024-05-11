@@ -372,3 +372,204 @@ div a {
   cursor: pointer;
   background-color: rgba(255, 255, 255, 1);
 }
+/* main bottom */
+
+.main-bottom {
+  margin-top: 100px;
+  margin-left: 99px;
+}
+.prsm {
+  display: flex;
+  gap: 40px;
+}
+.prosmotr {
+  width: 1074px;
+  font-family: "SF Pro Text";
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 62px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.photo__bottom {
+  margin-top: 64px;
+  display: flex;
+  gap: 30px;
+}
+.about {
+  display: flex;
+}
+.eget {
+  margin-top: 177px;
+  font-family: "SF Pro Text";
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 42px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+}
+.odio {
+  margin-top: 24px;
+  max-width: 605px;
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+}
+#check {
+  width: 18px;
+  height: 18px;
+  padding: 6px, 5px, 6px, 4px;
+  gap: 10px;
+  background-color: rgba(66, 149, 228, 1);
+}
+.checked {
+  display: flex;
+}
+.ac {
+  margin-top: 24px;
+  width: 605px;
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  color: rgba(69, 79, 91, 1);
+}
+.zamok {
+  margin-left: 30px;
+  margin-top: 96px;
+  width: 605px;
+  height: 564px;
+}
+.about-2 {
+  display: flex;
+}
+.imag {
+  margin-top: 82px;
+  margin-right: 30px;
+}
+.box {
+  width: 1440px;
+  height: 332px;
+  background-color: rgba(242, 248, 255, 1);
+  margin-top: 100px;
+}
+.perezvonim {
+  font-family: "SF Pro Text";
+  font-size: 44px;
+  font-weight: 600;
+  line-height: 62px;
+  text-align: left;
+  color: rgba(22, 28, 36, 1);
+  margin-left: 487px;
+  padding-top: 64px;
+}
+.esli {
+  font-family: "SF Pro Text";
+  max-width: 518px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  color: rgba(69, 79, 91, 1);
+  margin-top: 24px;
+  margin-left: 461px;
+}
+.foot-input {
+  margin-top: 24px;
+  margin-left: 346px;
+}
+.nom {
+  width: 240px;
+  height: 50px;
+  background-color: rgba(22, 28, 36, 0.04);
+  border: none;
+  padding: 16px 12px;
+  font-family: "SF Pro Text";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  margin-left: 24px;
+}
+.junatmoq {
+  width: 220px;
+  height: 50px;
+  left: 528px;
+  border: none;
+  background-color: rgba(66, 149, 228, 1);
+  margin-left: 24px;
+}
+.foot {
+  display: flex;
+  width: 1440px;
+  height: 448px;
+  background-color: rgba(13, 36, 54, 1);
+  box-shadow: 0px 1px 0px 0px rgba(196, 205, 213, 1) inset;
+}
+.logo {
+  padding-top: 64px;
+  margin-left: 100px;
+}
+.app {
+  display: flex;
+  margin-top: 144px;
+  gap: 24px;
+}
+.navigatsiya {
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 55px;
+  margin-left: 216px;
+}
+.navigatsiya2 {
+  font-family: "SF Pro Text";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 55px;
+  margin-left: 97px;
+}
+.foot-link {
+  font-family: SF Pro Text;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+  text-align: left;
+  margin-top: 24px;
+  margin-left: 216px;
+  color: rgba(255, 255, 255, 1);
+}
+.foot-link a {
+  color: rgba(255, 255, 255, 1);
+  margin-top: 16px;
+}
+.foot-link2 a .telefon {
+  color: rgba(196, 205, 213, 1);
+}
+.foot-link2 a {
+  color: rgba(255, 255, 255, 1);
+  margin-top: 16px;
+}
+.rossiya {
+  max-width: 150px;
+}
+.foot-link2 {
+  font-family: SF Pro Text;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 26px;
+  text-align: left;
+  margin-top: 24px;
+  padding-left: 97px;
+  color: rgba(255, 255, 255, 1);
+}
