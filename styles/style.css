@@ -540,7 +540,7 @@ div a {
   margin-left: 97px;
 }
 .foot-link {
-  font-family: SF Pro Text;
+  font-family: "SF Pro Text";
   font-size: 16px;
   font-weight: 300;
   line-height: 26px;
@@ -564,7 +564,7 @@ div a {
   max-width: 150px;
 }
 .foot-link2 {
-  font-family: SF Pro Text;
+  font-family: "SF Pro Text";
   font-size: 16px;
   font-weight: 300;
   line-height: 26px;
@@ -572,4 +572,37 @@ div a {
   margin-top: 24px;
   padding-left: 97px;
   color: rgba(255, 255, 255, 1);
+}
+.foot-line {
+  width: 1240px;
+  margin-top: -58px;
+  margin-left: 100px;
+  opacity: 0.08px;
+  border: 1px solid rgba(255, 255, 255, 1);
+}
+.golden {
+  position: relative;
+  opacity: 0, 6px;
+  top: 24px;
+  margin-left: 606px;
+  font-family: "SF Pro Display";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.71px;
+  color: rgba(255, 255, 255, 1);
+}
+.chek {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.chek1 {
+  display: flex;
+  margin-top: 24px;
+  gap: 12px;
+}
+
+.derev {
+  margin-left: 32px;
 }
